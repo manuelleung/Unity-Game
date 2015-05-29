@@ -18,3 +18,11 @@ Will think of more. If you think of seomething add your ideas here.
 ## Game Design
 1. Sample use of switches
     - since the player is constantly moving, the switches and items should be placed where the area gets harder (more obstacles) so it makes the area easier (for more obstacles, a slow item will help the player avoid the incoming obstacles) and will only make the area more difficult if the player that miss the item before going towards the harder area.
+
+
+## To - do 
+1. Floor bottom / Floor top (w/ collision)
+2. Switch gravity up/down with button (w/ orientation)
+3. Destroy obstacles when they exit the visible scene
+4. Make different obstacles (Not like flappy birds)
+5. Create a map with obstacles
